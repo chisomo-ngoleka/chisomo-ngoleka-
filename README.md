@@ -1,32 +1,43 @@
 Hi, I'm Chisomo Ngoleka 👋
 
-I'm a Data Science and Artificial Intelligence enthusiast, researcher, educator, and digital communications professional from Malawi.
+Data Analyst | Data Science & Machine Learning Enthusiast
 
-🔬 Areas of Interest
+I am building practical data-driven solutions using Python, Pandas, statistical analysis, machine learning, data visualization and GIS, with a focus on applications relevant to education, agriculture, climate resilience and African development.
 
-- Data Science & Artificial Intelligence
-- Machine Learning
-- Data Analysis & Statistical Modelling
-- Education Technology
-- Climate & Sustainable Development
-- Research & Evidence-Based Policy
-- Digital Transformation
-- Digital Marketing & Communications
+🔬 Current Work
 
-🛠️ Tools & Technologies
+- 📊 Codveda Data Analytics Internship — Boston Housing Data Analysis
+- 🎓 MphamvuLearn — Data-Driven, Low-Data Learning Support for African Students
+- 🌱 AgriSmart Malawi — Data-driven agricultural intelligence
+- 🧬 AfriRiskAI — Explainable artificial intelligence for health-risk prediction
 
-Python • R • SQL • Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow/Keras • GitHub • Excel • QGIS
+🛠️ Technical Skills
 
-🚀 Current Focus
+Programming: Python, R, SQL
 
-Building practical data and artificial intelligence projects addressing education, agriculture, climate action, and development challenges in Africa.
+Data Analysis: Pandas, NumPy, Excel, Stata
 
-🤝 Professional Experience
+Machine Learning: Scikit-learn, TensorFlow/Keras
 
-Social Media Manager Volunteer — Africa SME Assembly / Innovative Village Limited
+Visualization: Matplotlib, Seaborn, Power BI, Tableau
 
-Supporting social media content, community engagement, digital analytics, live event coverage, campaign support, and digital media management.
+Other: GitHub, QGIS, Statistical Modeling, GIS, Time Series, Explainable Artificial Intelligence
 
-🌍 Mission
+📈 Featured Project
 
-To use data, technology, research, and digital innovation to contribute to practical solutions for development challenges in Malawi and Africa.
+Codveda Data Analytics Internship — Boston Housing Analysis
+
+Completed data cleaning, exploratory data analysis and Linear Regression modeling on 506 housing observations.
+
+Model R²: 0.6688
+RMSE: 4.9286
+
+The Power BI dashboard stage is currently in progress.
+
+🎯 Career Interests
+
+Data Analytics • Data Science • Machine Learning • Climate Data • Education Technology • Agricultural Intelligence • African Development
+
+📫 Connect
+
+"LinkedIn" (https://linkedin.com/in/chisomo-ngoleka-7a5341157)
