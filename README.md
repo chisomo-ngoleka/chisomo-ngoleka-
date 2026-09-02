@@ -1,17 +1,17 @@
-Hi, I'm Chisomo Ngoleka 👋
+Hi, I'm Chisomo Ngoleka
 
 Data Analyst | Data Science & Machine Learning Enthusiast
 
 I am building practical data-driven solutions using Python, Pandas, statistical analysis, machine learning, data visualization and GIS, with a focus on applications relevant to education, agriculture, climate resilience and African development.
 
-🔬 Current Work
+Current Work
 
-- 📊 Codveda Data Analytics Internship — Boston Housing Data Analysis
+- Codveda Data Analytics Internship — Boston Housing Data Analysis
 - 🎓 MphamvuLearn — Data-Driven, Low-Data Learning Support for African Students
-- 🌱 AgriSmart Malawi — Data-driven agricultural intelligence
-- 🧬 AfriRiskAI — Explainable artificial intelligence for health-risk prediction
+- AgriSmart Malawi — Data-driven agricultural intelligence
+- AfriRiskAI — Explainable artificial intelligence for health-risk prediction
 
-🛠️ Technical Skills
+Technical Skills
 
 Programming: Python, R, SQL
 
@@ -23,7 +23,7 @@ Visualization: Matplotlib, Seaborn, Power BI, Tableau
 
 Other: GitHub, QGIS, Statistical Modeling, GIS, Time Series, Explainable Artificial Intelligence
 
-📈 Featured Project
+Featured Project
 
 Codveda Data Analytics Internship — Boston Housing Analysis
 
@@ -34,10 +34,10 @@ RMSE: 4.9286
 
 The Power BI dashboard stage is currently in progress.
 
-🎯 Career Interests
+Career Interests
 
 Data Analytics • Data Science • Machine Learning • Climate Data • Education Technology • Agricultural Intelligence • African Development
 
-📫 Connect
+Connect
 
-"LinkedIn" (https://linkedin.com/in/chisomo-ngoleka-7a5341157)
+"LinkedIn" (https://linkedin.com/in/chisomo-ngoleka-7a5344157)
